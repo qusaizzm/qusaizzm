@@ -3,22 +3,16 @@
 
 <img src="qusai_cav.png" alt="Vishnu Sivan" width="100%" />
 <img src="animated/light_1.gif" height="20px" />
-
-
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-
-
 <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Flutter Developer</<a href="/">
 </a>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/qusaizzm?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/qusaizmm)
+[![Linkedin: Qusai](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/qusaizmm)
 ![GitHub followers](https://img.shields.io/github/followers/qusaizzm?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://no/)](https://no/)
-![](https://visitor-badge.glitch.me/badge?page_id=qusaizzm.qusaizzm)
-![Waka Readme](https://github.com/qusaizzm/qusaizzm/workflows/Waka%20Readme/badge.svg)
+[![website: None](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://no/)](https://no/)
+
 
 ### 📫 Like to meet me?
 
