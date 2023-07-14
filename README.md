@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Flutter Developer</<a href="/">
+<p style="display:inline-block;"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Flutter Developer</<a href="/">
 </a>
 </em></p>
 
@@ -12,7 +12,7 @@
 ![Vishnu Sivan](codemaker.png)
 
 
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h3>A Flutter Developer</h3><a href="/">
+<p style="display:inline-block;"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h3>A Flutter Developer</h3><a href="/">
 </a>
 </em></p>
 
