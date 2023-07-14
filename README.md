@@ -3,7 +3,7 @@
 
 
 
-<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
+<img src="qusai_cav.png" alt="Vishnu Sivan" width="100%" />
 <img src="animated/light_1.gif" height="20px" />
 // or
 ![Vishnu Sivan](codemaker.png)
