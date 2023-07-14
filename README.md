@@ -2,9 +2,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-<p style="display:inline-block;"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Flutter Developer</<a href="/">
-</a>
-</em></p>
 
 <img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
 <img src="animated/light_1.gif" height="20px" />
@@ -12,7 +9,7 @@
 ![Vishnu Sivan](codemaker.png)
 
 
-<p style="display:inline-block;"><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h3>A Flutter Developer</h3><a href="/">
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Flutter Developer</<a href="/">
 </a>
 </em></p>
 
@@ -27,7 +24,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/qusaizzm/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -39,10 +36,10 @@ const Qusai = {
     askMeAbout: ["Flutter dev", "web dev", "tech", "photography"],
     technologies: {
         backEnd: {
-            js: ["Node", "Larverl", ".Net", "Express"],
+            fw: ["Node", "Laravel", ".Net", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Flutter Development"]
         },
         devOps: ["AWS"],
         databases: ["mongo", "MySql", "sqlite", "SQL Server"],
