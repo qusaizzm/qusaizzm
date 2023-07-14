@@ -1,4 +1,7 @@
-
+<img src="codemaker.png" alt="Vishnu Sivan" width="100%" />
+<img src="animated/light_1.gif" height="20px" />
+// or
+![Vishnu Sivan](codemaker.png)
 
 <h1 align="center">Hi 👋, I'm Qusai Alsimat</h1>
 <h3 align="center">A Flutter developer</h3>
